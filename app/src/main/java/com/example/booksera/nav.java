@@ -33,6 +33,7 @@ import static android.view.View.*;
 
 public class nav extends AppCompatActivity implements View.OnClickListener{
     private CardView card1,card2;
+    private CardView sharuu;
     GoogleSignInClient mGoogleSignInClient;
     private AppBarConfiguration mAppBarConfiguration;
     public static String username;
@@ -165,4 +166,4 @@ public class nav extends AppCompatActivity implements View.OnClickListener{
     }
 }
 
-//hi Omkar
+//hi Sharuu
